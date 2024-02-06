@@ -5,7 +5,7 @@ import javax.swing.table.AbstractTableModel;
 
 /**
  *
- * @author Jeici
+ * @author Devan
  */
 public class ModeloTabela extends AbstractTableModel {
     private ArrayList linhas = null;
